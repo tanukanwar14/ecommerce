@@ -1,5 +1,5 @@
 {
-  "name": "ecommerce-app-2023",
+  "name": "ecommerce-app-2025",
   "version": "1.0.0",
   "description": "ecommerce rest api",
   "main": "server.js",
@@ -11,7 +11,7 @@
     "dev": "concurrently \"npm run server\" \"npm run client\""
   },
   "keywords": [],
-  "author": "Techinfoyt",
+  "author": "Tanu",
   "license": "MIT",
   "dependencies": {
     "bcrypt": "^5.1.1",
